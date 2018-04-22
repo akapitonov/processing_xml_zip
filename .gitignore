@@ -1,0 +1,5 @@
+archives/
+*.csv
+*.pyc
+.idea
+.DS_Store
